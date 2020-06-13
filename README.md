@@ -1,6 +1,20 @@
-# todoapplist
+# To Do List
 
-A new Flutter project.
+To Do List App is created for to schedule your tasks and store it for future requirement  
+
+## Under Production
+
+This App is develope using Google Flutter which is Native App development Platform
+
+This App includes Registration and login feature which develope using Google Firebase Auth
+
+For Future production I am going to create task and store it into Google Firestore Database which is noSQL database
+
+## Screenshots
+
+![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/Screenshots/HomePage.png)
+![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/Screenshots/SignIn.png)
+![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/Screenshots/SignUp.png)
 
 ## Getting Started
 
