@@ -12,9 +12,9 @@ For Future production I am going to create task and store it into Google Firesto
 
 ## Screenshots
 
-![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/Screenshots/HomePage.png)
-![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/Screenshots/SignIn.png)
-![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/Screenshots/SignUp.png)
+![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/blob/master/Screenshots/HomePage.png)
+![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/blob/master/Screenshots/SignIn.png)
+![alt text](https://github.com/NayanPatil1998/To_Do_List_Appp/blob/master/Screenshots/SignUp.png)
 
 ## Getting Started
 
