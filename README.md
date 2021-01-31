@@ -4,7 +4,7 @@ To Do List App is created for to schedule your tasks and store it for future req
 
 ## Under Production
 
-This App is develope using Google Flutter which is Native App development Platform
+This App is develope using Google Flutter.
 
 This App includes Registration and login feature which develope using Google Firebase Auth
 
